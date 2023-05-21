@@ -1,0 +1,145 @@
+﻿<mah:MetroWindow x:Class="EAST_AS_CENTER_HUD.Camera.Window_CameraSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EAST_AS_CENTER_HUD.Camera"
+        xmlns:hanserodisplay="clr-namespace:HanseroDisplay;assembly=HanseroDisplay"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        mc:Ignorable="d"
+                 WindowStartupLocation="CenterOwner"
+        Title="카메라 설정" 
+                 Height="800" 
+                 Width="1200"
+                 DataContext="{Binding}" 
+                 DataContextChanged="MetroWindow_DataContextChanged"
+                 Closing="MetroWindow_Closing">
+    
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="10"/>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="350"/>
+        </Grid.ColumnDefinitions>
+
+        <GroupBox Header="카메라" mah:ControlsHelper.HeaderFontSize="20">
+            <hanserodisplay:HDisplay DataContext="{Binding CameraSettingEngine}" BitmapImage="{Binding Image, Mode=TwoWay}" Rectangles="{Binding DisplayRectangles, Mode=TwoWay}"  Result="{Binding Result, Mode=TwoWay}" IsAutoFit="{Binding IsFitDisplay, Mode=TwoWay}"/>
+        </GroupBox>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <GroupBox Header="검사항목" Grid.Row="0" mah:ControlsHelper.HeaderFontSize="20">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="차종" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <ComboBox Grid.Column="1" Grid.Row="0" DataContext="{Binding CameraSettingEngine}" ItemsSource="{Binding ListCarkind}" SelectedItem="{Binding SelectedCarkind}" SelectedIndex="0"/>
+
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="검사항목" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <ComboBox Grid.Column="1" Grid.Row="1" DataContext="{Binding CameraSettingEngine}" ItemsSource="{Binding ListInspection}" SelectedItem="{Binding SelectedInspection}" SelectedIndex="0"/>
+                </Grid>
+            </GroupBox>
+
+            <TabControl Grid.Row="1">
+                <TabItem Header="카메라 설정" mah:ControlsHelper.HeaderFontSize="20">
+                    <Grid  DataContext="{Binding CameraSettingEngine}" IsEnabled="{Binding IsShowCameraGroupBox}">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.RowSpan="1" Grid.Row="0" Grid.Column="0" Text="Gain" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Slider Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Value="{Binding SelectedCamera.Gain}" Maximum="{Binding GainMax}" Minimum="{Binding GainMin}"  TickFrequency="{Binding GainInterval}" IsSnapToTickEnabled="True" Margin="0,0,0,10"/>
+                        <mah:NumericUpDown Grid.Column="1" Grid.Row="0" Value="{Binding SelectedCamera.Gain}" Maximum="{Binding GainMax}" Minimum="{Binding GainMin}" Interval="{Binding GainInterval}"/>
+
+                        <TextBlock Grid.Row="2" Grid.RowSpan="1" Grid.Column="0" Text="Exposure" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <Slider Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="3" Value="{Binding SelectedCamera.Exposure}" Minimum="{Binding ExposureMin}" Maximum="{Binding ExposureMax}"   TickFrequency="{Binding ExposureInterval}" IsSnapToTickEnabled="True"/>
+                        <mah:NumericUpDown Grid.Column="1" Grid.Row="2" Value="{Binding SelectedCamera.Exposure}" Minimum="{Binding ExposureMin}" Maximum="{Binding ExposureMax}" Interval="{Binding ExposureInterval}"/>
+
+                        <CheckBox Grid.Row="4" Margin="4" Grid.ColumnSpan="3" IsChecked="{Binding SelectedCarkind.IsRotateCamera}" IsEnabled="False">
+                            <TextBlock Text="회전 여부"/>
+                        </CheckBox>
+
+                        <TextBlock Grid.Row="5" Grid.Column="0" Text="연속 촬영 가이드 크기"/>
+                        <Slider Grid.Row="5" Grid.Column="1" Minimum="1" Maximum="50" Interval="1" Value="{Binding ContinuousGuideRectangleStrokeSize}"/>
+
+                        <Button Grid.Row="6" Grid.ColumnSpan="2" Margin="4" Command="{Binding SaveCameraParamsCommand}">
+                            <TextBlock>저장</TextBlock>
+                        </Button>
+
+                        <ToggleButton Grid.Row="7" Grid.ColumnSpan="2" Margin="4" IsChecked="{Binding IsFocusAssist}">
+                            <TextBlock Text="포커스 어시스트"/>
+                        </ToggleButton>
+                        
+                    </Grid>
+                </TabItem>
+                <TabItem Header="켈리브레이션" DataContext="{Binding CameraSettingEngine}" mah:ControlsHelper.HeaderFontSize="20">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="HUD 영상 가로" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <mah:NumericUpDown Grid.Row="0" Grid.Column="1" Margin="5" DataContext="{Binding SelectedCarkind}" Value="{Binding HudWidth}" Interval="1" Minimum="1" Maximum="100" StringFormat="{}{0:N2}mm"/>
+
+                        <TextBlock Text="HUD 영상 세로" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <mah:NumericUpDown Grid.Row="1" Grid.Column="1" Margin="5" DataContext="{Binding SelectedCarkind}" Value="{Binding HudHeight}" Interval="1" Minimum="1" Maximum="100" StringFormat="{}{0:N2}mm"/>
+
+                        <TextBlock Text="mm Per Pixel" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <mah:NumericUpDown Grid.Row="2" Grid.Column="1" Margin="5" DataContext="{Binding SelectedCarkind}" Value="{Binding MMPerPixel}" Interval="0.005" Maximum="1" Minimum="0"  StringFormat="1픽셀 당 {}{0:N3}mm"/>
+
+                        <Button Grid.Row="4" Grid.ColumnSpan="2" Margin="4" Command="{Binding SaveCalibrationParamsCommand}">
+                            <TextBlock>저장</TextBlock>
+                        </Button>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+            <Button DataContext="{Binding CameraSettingEngine}" Command="{Binding OneShotCommand}" Grid.Row="3" Margin="5">
+                <TextBlock Text="단일 촬영"/>
+            </Button>
+            <Button DataContext="{Binding CameraSettingEngine}" Command="{Binding ContiniusShotCommand}" Grid.Row="4" Margin="5">
+                <TextBlock Text="연속 촬영"/>
+            </Button>
+            <Button DataContext="{Binding CameraSettingEngine}" Command="{Binding StopContiniusShotCommand}" Grid.Row="5" Margin="5">
+                <TextBlock Text="연속 촬영 중지"/>
+            </Button>
+            <Button DataContext="{Binding CameraSettingEngine}" Command="{Binding SaveImageCommand}" Grid.Row="6" Margin="5">
+                <TextBlock Text="이미지 저장"/>
+            </Button>
+        </Grid>
+    </Grid>
+</mah:MetroWindow>

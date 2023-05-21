@@ -1,0 +1,10 @@
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\obj\Debug\AsyncSocketServerApp.FrmServer.resources
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\obj\Debug\AsyncSocketServerApp.Properties.Resources.resources
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\obj\Debug\AsyncSocketServerApp.csproj.GenerateResource.Cache
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\bin\Debug\AsyncSocketServerApp.exe
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\bin\Debug\AsyncSocketServerApp.pdb
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\bin\Debug\AsyncSocket.dll
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\bin\Debug\AsyncSocket.pdb
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\obj\Debug\AsyncSocketServerApp.exe
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocketServerApp\obj\Debug\AsyncSocketServerApp.pdb

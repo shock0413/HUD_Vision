@@ -1,0 +1,1525 @@
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.exe.config
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.exe
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.exe
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.exe.config
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.exe
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.exe
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+I:\20201016\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+I:\20201104\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.dll.config
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.dll.config
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\HOVLib.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.xml
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\HOVLib.dll.config
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\HOVLib.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\HOVLib.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Blob.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.dll.config
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\00. 작업공간\20210107\Ulsan_2_A\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.dll.config
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20210107\Ulsan_A\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll.config
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.pdb
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll.config
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.pdb
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll.config
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.dll
+E:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.pdb
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll.config
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.pdb
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.xml
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll.config
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+D:\20210109\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+D:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+D:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+D:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+D:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.dll
+D:\20210109\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll.config
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll.config
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll.config
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.xml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll.config
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll.config
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\HOVLib.pdb
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.xml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.dll.config
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HOVLib\obj\Debug\HOVLib.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csprojAssemblyReference.cache
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.AssemblyReference.cache
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcp120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\msvcr120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x86\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcp120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\msvcr120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll.config
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\HOVLib.pdb
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.xml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.dll.config
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.xml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Blob.dll.config
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.xml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\bin\Debug\OpenCvSharp.Extensions.xml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.AssemblyReference.cache
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CoreCompileInputs.cache
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.csproj.CopyComplete
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HOVLib\obj\Debug\HOVLib.pdb

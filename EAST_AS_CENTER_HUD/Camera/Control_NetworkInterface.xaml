@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="EAST_AS_CENTER_HUD.Camera.Control_NetworkInterface"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EAST_AS_CENTER_HUD.Camera"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" DataContext="{Binding}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <GroupBox Header="네트워크 정보" Grid.Row="0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Row="0" Text="이름"/>
+                <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding SelectedNetworkInterface.Name}"/>
+                <TextBlock Grid.Row="1" Text="장치"/>
+                <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding SelectedNetworkInterface.Device}"/>
+                <TextBlock Grid.Row="2" Text="상태"/>
+                <TextBlock Grid.Row="2" Grid.Column="1" Text="{Binding SelectedNetworkInterface.Status}"/>
+                <TextBlock Grid.Row="3" Text="속도"/>
+                <TextBlock Grid.Row="3" Grid.Column="1" Text="{Binding SelectedNetworkInterface.Speed}"/>
+                <TextBlock Grid.Row="4" Text="Mac주소"/>
+                <TextBlock Grid.Row="4" Grid.Column="1" Text="{Binding SelectedNetworkInterface.MACAddress}"/>
+                <TextBlock Grid.Row="5" Text="DHCP 상태"/>
+                <TextBlock Grid.Row="5" Grid.Column="1" Text="{Binding SelectedNetworkInterface.DHCPStatus}"/>
+                <TextBlock Grid.Row="6" Text="IP 주소"/>
+                <TextBlock Grid.Row="6" Grid.Column="1" Text="{Binding SelectedNetworkInterface.IpAddress}"/>
+                <TextBlock Grid.Row="7" Text="Subnet Mask"/>
+                <TextBlock Grid.Row="7" Grid.Column="1" Text="{Binding SelectedNetworkInterface.SubnetMask}"/>
+                <TextBlock Grid.Row="8" Text="Subnet"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="점보 패킷" Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Row="0" Text="MTU"/>
+                <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding MTU}"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="방화벽" Grid.Row="2"></GroupBox>
+
+    </Grid>
+
+</UserControl>

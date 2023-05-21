@@ -1,0 +1,76 @@
+﻿<mah:MetroWindow
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        x:Class="EAST_AS_CENTER_HUD.Carinfo.Window_Carinfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EAST_AS_CENTER_HUD.Carinfo"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        Title="차종 관리" Height="600" Width="1024">
+    <Window.Resources>
+        <Style TargetType="{x:Type TextBlock}">
+            <Setter Property="FontSize" Value="10"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" Command="{Binding LoadCSVCommand}">
+                <TextBlock Text="CSV 파일 불러오기"/>
+            </Button>
+            <Button Grid.Column="1" Command="{Binding SaveCarinfoCommand}">
+                <TextBlock Text="저장"/>
+            </Button>
+            <Button Grid.Column="2" Command="{Binding ReloadCarinfoCommand}">
+                <TextBlock Text="다시 불러오기"/>
+            </Button>
+            <Button Grid.Column="3" Command="{Binding AddCarinfoCommand}">
+                <TextBlock Text="추가"/>
+            </Button>
+            <Button Grid.Column="4" Command="{Binding RemoveCarinfoCommand}">
+                <TextBlock Text="제거"/>
+            </Button>
+        </Grid>
+
+        <DataGrid Grid.Row="1" CanUserAddRows="True" ItemsSource="{Binding StructCarkinds}" SelectedItem="{Binding SelectedCarinfo}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="차종" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="HUD 가로 길이" Binding="{Binding HudWidth}"/>
+                <DataGridTextColumn Header="HUD 세로 길이" Binding="{Binding HudHeight}"/>
+                <DataGridTextColumn Header="mm Per Pixel" Binding="{Binding MMPerPixel}"/>
+                <DataGridTextColumn Header="도트 가로 개수" Binding="{Binding DotHorizentalCount}"/>
+                <DataGridTextColumn Header="도트 세로 개수" Binding="{Binding DotVerticalCount}"/>
+                <DataGridTextColumn Header="도트 가로 간격" Binding="{Binding DotHorizentalInterval}"/>
+                <DataGridTextColumn Header="도트 세로 간격" Binding="{Binding DotVerticalInterval}"/>
+                <DataGridTextColumn Header="[잘림] 합격 범위" Binding="{Binding CutoffToolParams.PassRange}"/>
+                <DataGridTextColumn Header="[잘림] 블랍 최소값" Binding="{Binding CutoffToolParams.MinBlobCount}"/>
+                <DataGridTextColumn Header="[잘림] 블랍 최대값" Binding="{Binding CutoffToolParams.MaxBlobCount}"/>
+                <DataGridTextColumn Header="[잘림] 밝기값" Binding="{Binding CutoffToolParams.BrightLimit}"/>
+                <DataGridTextColumn Header="[왜곡] 블랍 최소값" Binding="{Binding DistortionToolParams.MinBlobCount}"/>
+                <DataGridTextColumn Header="[왜곡] 블랍 최대값" Binding="{Binding DistortionToolParams.MaxBlobCount}"/>
+                <DataGridTextColumn Header="[왜곡] 밝기값" Binding="{Binding DistortionToolParams.BrightLimit}"/>
+                <DataGridTextColumn Header="[왜곡] 마스터 도트 MM Per Pixel" Binding="{Binding DistortionToolParams.MasterDotMMPerPixel}"/>
+                <DataGridTextColumn Header="[중심] 블랍 최소값" Binding="{Binding CenterToolParams.MinBlobCount}"/>
+                <DataGridTextColumn Header="[중심] 블랍 최대값" Binding="{Binding CenterToolParams.MaxBlobCount}"/>
+                <DataGridTextColumn Header="[중심] 밝기값" Binding="{Binding CenterToolParams.BrightLimit}"/>
+                <DataGridTextColumn Header="[풀컨텐츠] 점수" Binding="{Binding FullContentsToolParams.Score}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</mah:MetroWindow>

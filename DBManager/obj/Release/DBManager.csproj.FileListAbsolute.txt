@@ -1,0 +1,17 @@
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\x86\sqlite3.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\x64\sqlite3.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\DBManager.dll.config
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\DBManager.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\DBManager.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\EntityFramework.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\System.Data.SQLite.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\EntityFramework.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\bin\Release\System.Data.SQLite.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\obj\Release\DBManager.csproj.CoreCompileInputs.cache
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\obj\Release\DBManager.csproj.CopyComplete
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\obj\Release\DBManager.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\DBManager\obj\Release\DBManager.pdb

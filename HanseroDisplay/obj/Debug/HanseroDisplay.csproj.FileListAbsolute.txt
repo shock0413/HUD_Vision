@@ -1,0 +1,1890 @@
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HDisplay.g.cs
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\Debug\HToolEngine.dll
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\Debug\HToolEngine.pdb
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.csprojResolveAssemblyReference.cache
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+D:\001. Project\2019\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+Y:\01. 개발 업무\02. 외부 프로젝트\2019년\02. 동부 AS 센터 HUD 보정 시스템\08. 프로그램 소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+\\192.168.0.240\연구소\01. 개발 업무\02. 외부 프로젝트\2019년\09. GIT HUD\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20200910\HUD 보정 비전 시스템\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\B라인\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+I:\20201016\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+I:\20201104\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20201110\EAST_AS_CENTER_HUD\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20201127\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HCore.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HResult.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\Utill.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HCore.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HResult.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\Utill.pdb
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HCircle.baml
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\CalcBinding.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HCore.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HResult.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\Utill.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HCore.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\HResult.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\bin\Debug\Utill.pdb
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HCircle.g.cs
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HCircle.baml
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HDisplay.baml
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HRectangle.baml
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+G:\20201127 1공장 HUD\EAST_AS_CENTER_HUD - Ulsan 1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HCircle.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HDisplay.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HRectangle.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\CalcBinding.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\HCore.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\HResult.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\Utill.dll
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\HCore.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\HResult.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\bin\Debug\Utill.pdb
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HCircle.baml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HDisplay.baml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HRectangle.baml
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+Y:\10. 프로그램 소스\02. 통합\울산 2공장\C라인\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210104\Ulsan_2_C\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_2_A\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210107\Ulsan_A\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210107\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.pdb
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.pdb
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.pdb
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.baml
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\CalcBinding.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.pdb
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.pdb
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.pdb
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.g.cs
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.baml
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.baml
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.baml
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+D:\20210109\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\System.Net.Http.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\System.Net.Http.xml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\bin\Debug\ko\System.Net.Http.resources.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\20210112\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\진행중\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\CalcBinding.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.pdb
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.g.cs
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.baml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.baml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.baml
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+E:\00. 작업공간\진행중\1공장 허드\복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\CalcBinding.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HCore.pdb
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\HResult.pdb
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\bin\Debug\Utill.pdb
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.g.cs
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.g.cs
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.g.cs
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HCircle.baml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HDisplay.baml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HRectangle.baml
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+C:\usb 백업 - 신수곤\1공장 복구 소스\HUD_Ulsan_1\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+G:\20210322 1공장 HUD 프로그램 (ROI 설정)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+G:\20210325 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+F:\20210427 1공장 HUD (ROI)\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+F:\20210430 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+G:\20210531 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csprojAssemblyReference.cache
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+G:\20210613 1공장 HUD\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.AssemblyReference.cache
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+F:\10. 1공장 HUD\20220304\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcp120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\msvcr120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x86\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcp120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\msvcr120.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_calib3d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_contrib2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_core2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_features2d2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_flann2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_gpu2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_highgui2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_imgproc2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_legacy2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ml2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_nonfree2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_objdetect2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_ocl2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_photo2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_stitching2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_superres2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_video2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\opencv_videostab2410.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HanseroDisplay.pdb
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\CalcBinding.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HCore.pdb
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\HResult.pdb
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\DynamicExpresso.Core.xml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\bin\Debug\Utill.pdb
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.AssemblyReference.cache
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.g.cs
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.g.cs
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.g.cs
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.cache
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay_MarkupCompile.lref
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HCircle.baml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HDisplay.baml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HRectangle.baml
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.g.resources
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.CopyComplete
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.dll
+F:\10. 1공장 HUD\20220304 중심검사 Y축 범위, 도트 인식 방식 변경\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.pdb
+C:\Users\Hansero\Desktop\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HanseroDisplay\obj\Debug\HanseroDisplay.csproj.AssemblyReference.cache

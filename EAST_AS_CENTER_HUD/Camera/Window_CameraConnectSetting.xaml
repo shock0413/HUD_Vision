@@ -1,0 +1,43 @@
+﻿<mah:MetroWindow
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+    x:Class="EAST_AS_CENTER_HUD.Camera.Window_CameraConnectSetting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EAST_AS_CENTER_HUD.Camera"
+        mc:Ignorable="d"
+        Title="카메라 연결 설정" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" Text="카메라 장치를 설정합니다."/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <GroupBox Header="장치">
+                <TreeView ItemsSource="{Binding ListNetworkInterface}" SelectedItemChanged="TreeView_SelectedItemChanged" >
+                    <TreeView.ItemContainerStyle>
+                        <Style TargetType="{x:Type TreeViewItem}">
+                            <Setter Property="IsExpanded" Value="True"/>
+                        </Style>
+                    </TreeView.ItemContainerStyle>
+                    <TreeView.ItemTemplate>
+                        <HierarchicalDataTemplate ItemsSource="{Binding ListCameraInterface}">
+                            <TextBlock Text="{Binding}"/>
+                        </HierarchicalDataTemplate>
+                    </TreeView.ItemTemplate>
+                </TreeView>
+            </GroupBox>
+
+            <Grid Grid.Column="1" Name="gd_Content">
+                
+            </Grid>
+        </Grid>
+    </Grid>
+</mah:MetroWindow>

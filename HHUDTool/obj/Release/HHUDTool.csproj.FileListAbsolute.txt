@@ -1,0 +1,135 @@
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x86\opencv_ffmpeg400.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HHUDTool.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HHUDTool.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HCore.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HOVLib.exe
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HResult.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HTool.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\Utill.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Blob.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Extensions.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HCore.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HOVLib.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HOVLib.exe.config
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HResult.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HTool.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\Utill.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Blob.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Blob.xml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.xml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Extensions.pdb
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Extensions.xml
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.csprojAssemblyReference.cache
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.csproj.CoreCompileInputs.cache
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.csproj.CopyComplete
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.dll
+D:\001. Project\2019\001. 동부 AS 센터\소스\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x86\opencv_ffmpeg400.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HHUDTool.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HHUDTool.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HCore.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HResult.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HTool.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\Utill.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Blob.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HCore.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HOVLib.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HResult.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HTool.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\Utill.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Blob.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Blob.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Extensions.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.csprojAssemblyReference.cache
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.csproj.CoreCompileInputs.cache
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.csproj.CopyComplete
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\obj\Release\HHUDTool.pdb
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HOVLib.dll
+C:\Users\sugon\Desktop\EAST_AS_CENTER_HUD\HHUDTool\bin\Release\HOVLib.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\OpenCvSharpExtern.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\OpenCvSharpExtern.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\msvcp120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\msvcr120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_calib3d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_contrib2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_core2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_features2d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_ffmpeg2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_flann2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_gpu2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_highgui2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_imgproc2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_legacy2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_ml2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_nonfree2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_objdetect2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_ocl2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_photo2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_stitching2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_superres2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_video2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x86\opencv_videostab2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\msvcp120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\msvcr120.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_calib3d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_contrib2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_core2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_features2d2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_ffmpeg2410_64.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_flann2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_gpu2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_highgui2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_imgproc2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_legacy2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_ml2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_nonfree2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_objdetect2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_ocl2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_photo2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_stitching2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_superres2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_video2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\dll\x64\opencv_videostab2410.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HHUDTool.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HHUDTool.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HCore.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HOVLib.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HResult.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HTool.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\Utill.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.Blob.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.CPlusPlus.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.Extensions.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HCore.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HOVLib.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HOVLib.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HResult.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\HTool.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\Utill.pdb
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.Blob.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.Blob.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.CPlusPlus.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.CPlusPlus.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.dll.config
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\bin\Release\OpenCvSharp.Extensions.xml
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\obj\Release\HHUDTool.csprojAssemblyReference.cache
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\obj\Release\HHUDTool.csproj.CoreCompileInputs.cache
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\obj\Release\HHUDTool.csproj.CopyComplete
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\obj\Release\HHUDTool.dll
+G:\HUL_1_A01_HUD_Vision-master\hul_1_a01_hud_vision\HHUDTool\obj\Release\HHUDTool.pdb

@@ -1,0 +1,5 @@
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocket\bin\Debug\AsyncSocket.dll
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocket\bin\Debug\AsyncSocket.pdb
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocket\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocket\obj\Debug\AsyncSocket.dll
+E:\Projects\[2] 2008년 프로젝트\[2] 진행 중 프로젝트\[7] 2008.06 삽교대교 모니터링\[2] 프로그램\AsyncSocket\AsyncSocket\obj\Debug\AsyncSocket.pdb

@@ -1,0 +1,6 @@
+[Params]
+Pass Range=8.24999999999997
+Min Blob=11
+Max Blob=1000000000
+Bright Limit=250
+Transmission Factor=10

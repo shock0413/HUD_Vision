@@ -1,0 +1,110 @@
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\x64\Debug\HanseroDisplay.dll
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\bin\x64\Debug\HanseroDisplay.pdb
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.g.cs
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.cache
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.lref
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.baml
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.g.resources
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.dll
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.pdb
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\x64\Debug\HanseroDisplay.dll
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\x64\Debug\HanseroDisplay.pdb
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.dll
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.pdb
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.g.cs
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.baml
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csprojResolveAssemblyReference.cache
+C:\Users\sugon\source\repos\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.g.cs
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.g.cs
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.cache
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.lref
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.dll
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.pdb
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csprojResolveAssemblyReference.cache
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.baml
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.baml
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.g.resources
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.dll
+E:\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.pdb
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.g.cs
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.g.cs
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.cache
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.lref
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.dll
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.pdb
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.dll
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.pdb
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.baml
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.baml
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.g.resources
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\00. Project\05. 누우카파 NAVI AI 사전 검사 테스트 프로그램\04. 개발 및 테스트\프로그램 소스\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CopyComplete
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.dll
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.pdb
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csprojAssemblyReference.cache
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.g.cs
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.g.cs
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.cache
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.lref
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.baml
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.baml
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.g.resources
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CopyComplete
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.dll
+E:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.pdb
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.dll
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.pdb
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csprojResolveAssemblyReference.cache
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.g.cs
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.g.cs
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.cache
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.lref
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.baml
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.baml
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.g.resources
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.dll
+I:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.pdb
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.dll
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\bin\HanseroDisplay.pdb
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csprojAssemblyReference.cache
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.g.cs
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.g.cs
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.cache
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.lref
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HDisplay.baml
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HRectangle.baml
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.g.resources
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CopyComplete
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.dll
+G:\WorkSpace\HMC_NUKAPA_HEADVALUE_NAVI_AI_MERCURY_TEST_PROGECT\HanseroDisplay\obj\x64\Debug\HanseroDisplay.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\bin\dll\x86\OpenCvSharpExtern.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\bin\dll\x86\opencv_ffmpeg400.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\bin\dll\x64\OpenCvSharpExtern.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\bin\dll\x64\opencv_ffmpeg400_64.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\bin\HanseroDisplay.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\bin\HanseroDisplay.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HCircle.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HDisplay.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HRectangle.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.cache
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay_MarkupCompile.lref
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HCircle.baml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HDisplay.baml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HRectangle.baml
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay.g.resources
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CoreCompileInputs.cache
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csproj.CopyComplete
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay.dll
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay.pdb
+D:\01. 동부 AS 센터 HUD\001. (진)동부 AS 센터\소스\EAST_AS_CENTER_HUD\HanseroDisplay\obj\x64\Debug\HanseroDisplay.csprojAssemblyReference.cache
